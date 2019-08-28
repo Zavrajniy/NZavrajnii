@@ -1,0 +1,6 @@
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\bin\Debug\Guns.exe.config
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\bin\Debug\Guns.exe
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\bin\Debug\Guns.pdb
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\obj\Debug\Guns.csproj.CoreCompileInputs.cache
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\obj\Debug\Guns.exe
+C:\Users\nicolai.zavrajnii\source\repos\Guns\Guns\obj\Debug\Guns.pdb
